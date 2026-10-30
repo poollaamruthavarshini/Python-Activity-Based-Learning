@@ -30,7 +30,7 @@ flowchart TD
     H --> I([Stop])
 ```
 
-### 5. Sample Input
+### 4. Sample Input
 
 ```
 Enter product price: 20
@@ -38,11 +38,10 @@ Enter available stock: 50
 Enter order quantity: 5
 ```
 
-### 6. Sample Output
+### 5. Sample Output
 
 ```
 Total Bill: 100.0
 Remaining Stock: 45
 ```
 
-Source: Your uploaded Python Activity-Based Learning PDF.
