@@ -26,7 +26,7 @@ flowchart TD
     F --> G([Stop])
 ```
 
-### 5. Sample Input
+### 4. Sample Input
 
 ```
 Enter number of subjects: 3
@@ -35,7 +35,7 @@ Enter marks: 90
 Enter marks: 75
 ```
 
-### 6. Sample Output
+### 5. Sample Output
 
 ```
 Total: 250
