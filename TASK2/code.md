@@ -16,7 +16,7 @@ Calculate the electricity bill based on the number of units consumed using diffe
 8. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter units/]
@@ -32,7 +32,6 @@ flowchart TD
     I --> J
     D --> K([Stop])
     J --> K
-
 ```
 
 
