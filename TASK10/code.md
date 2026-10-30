@@ -1,7 +1,5 @@
 ## Case Study No. 57 – Smart Canteen Order and Stock Management
 
- Case Study No. 57
-
 ### 1. Problem Statement
 
 Process customer orders, calculate bills, update available stock, reject unavailable quantities and display remaining stock.
@@ -18,7 +16,7 @@ Process customer orders, calculate bills, update available stock, reject unavail
 8. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter price and stock/]
