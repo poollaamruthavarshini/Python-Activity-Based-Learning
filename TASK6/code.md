@@ -28,13 +28,13 @@ flowchart TD
     F --> H([Stop])
     G --> H
 ```
-### 5. Sample Input
+### 4. Sample Input
 
 ```
 Enter password: Hello@123
 ```
 
-### 6. Sample Output
+### 5. Sample Output
 
 ```
 Valid Password
