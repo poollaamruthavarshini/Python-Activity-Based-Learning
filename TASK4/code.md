@@ -31,7 +31,7 @@ flowchart TD
     I --> J([Stop])
 ```
 
-### 5. Sample Input
+### 4. Sample Input
 
 ```
 Enter initial balance: 5000
@@ -42,7 +42,7 @@ Enter deposit or withdraw: withdraw
 Enter amount: 2000
 ```
 
-### 6. Sample Output
+### 5. Sample Output
 
 ```
 Final Balance: 4000.0
