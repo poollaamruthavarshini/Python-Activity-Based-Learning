@@ -35,13 +35,13 @@ flowchart TD
 ```
 
 
-### 5. Sample Input
+### 4. Sample Input
 
 ```
 Enter units: 250
 ```
 
-### 6. Sample Output
+### 5. Sample Output
 
 ```
 Electricity Bill: 750
