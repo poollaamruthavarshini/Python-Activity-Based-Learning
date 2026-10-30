@@ -16,7 +16,7 @@ Calculate the expected closing stock of products and compare it with the actual 
 8. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter opening stock/]
