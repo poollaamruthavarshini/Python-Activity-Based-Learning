@@ -15,7 +15,7 @@ Check whether a password satisfies the required conditions, such as minimum leng
 7. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter password/]
@@ -28,7 +28,6 @@ flowchart TD
     F --> H([Stop])
     G --> H
 ```
-
 ### 5. Sample Input
 
 ```
