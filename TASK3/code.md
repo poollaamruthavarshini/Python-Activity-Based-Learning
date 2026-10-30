@@ -15,7 +15,7 @@ Calculate a student's attendance percentage and find how many consecutive classe
 7. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter total and attended classes/]
