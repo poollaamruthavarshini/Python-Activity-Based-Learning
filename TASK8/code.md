@@ -26,13 +26,13 @@ flowchart TD
     F --> G([Stop])
 ```
 
-### 5. Sample Input
+### 4. Sample Input
 
 ```
 Product details are stored in the program.
 ```
 
-### 6. Sample Output
+### 5. Sample Output
 
 ```
 (101, 'Pen', 10)
@@ -41,5 +41,3 @@ Product details are stored in the program.
 Highest Price: 500
 Lowest Price: 10
 ```
-
-Note: This is a simple example based on the case study title; the exact detailed requirements of the original question were not available.
