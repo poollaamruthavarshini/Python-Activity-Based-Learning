@@ -15,7 +15,7 @@ Analyze a student's marks in different subjects and calculate the average, highe
 7. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter number of subjects/]
