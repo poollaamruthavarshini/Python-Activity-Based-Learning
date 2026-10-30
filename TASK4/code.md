@@ -15,7 +15,7 @@ Simulate ATM transactions such as deposits and withdrawals while maintaining the
 7. Stop.
 
 ### 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter balance/]
